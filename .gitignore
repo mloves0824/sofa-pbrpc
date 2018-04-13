@@ -35,3 +35,11 @@ sample/echo/client_async
 sample/echo/client_sync
 sample/echo/echo_service.pb.h
 sample/echo/server
+
+.vs/
+sofa-pbrpc.VC.VC.opendb
+sofa-pbrpc.VC.db
+sofa-pbrpc.sln
+sofa-pbrpc.vcxproj
+sofa-pbrpc.vcxproj.filters
+sofa-pbrpc.vcxproj.user
