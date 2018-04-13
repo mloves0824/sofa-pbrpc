@@ -30,3 +30,8 @@ bazel-genfiles
 bazel-out
 bazel-sofa-pbrpc
 bazel-testlogs
+
+sample/echo/client_async
+sample/echo/client_sync
+sample/echo/echo_service.pb.h
+sample/echo/server

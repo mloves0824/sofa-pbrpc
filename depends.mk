@@ -28,7 +28,9 @@ BOOST_HEADER_DIR=/usr
 ##   $(PROTOBUF_DIR)/lib/libprotobuf.a 
 ##
 #PROTOBUF_DIR=/home/users/qinzuoyan01/libs/protobuf-2.4.1/output
-PROTOBUF_DIR=/usr/local
+PROTOBUF_LIB_DIR=/usr/lib64
+PROTOBUF_INCLUDE_DIR=/usr
+PROTOC_DIR=/usr/bin
 ################################################################
 
 ################################################################
